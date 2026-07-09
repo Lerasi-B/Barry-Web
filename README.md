@@ -5,7 +5,8 @@
 <Body>
 <body style="background-color:brown;">
 
-<h1 style color="color:green;">Welcome to Lerasi Integrated Services</h1>
+<h1 style color="color:green;text-align
+  ;center;">Welcome to Lerasi Integrated Services
 
 <p style="color:indigo;">We Specialises on all kinds of Phones, power banks, chargers, cords mp3 etc </a>
 
