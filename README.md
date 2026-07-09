@@ -5,12 +5,12 @@
 <Body>
 <body style="background-color:gold;">
 
-<h1 style color="color:green;">Welcome to cloud Computing</h1>
+<h1 style color="color:green;">Welcome to Lerasi Integrated Services</h1>
 
-<p style="color:indigo;">Name: Lerasi Barididum</a>
+<p style="color:indigo;">We Specialises on all kinds of Phones, power banks, chargers, cords mp3 etc </a>
 
-<p style="color:magenta;"> Department: Electronics Engineering</p> 
-<p style="color:blue;"> Mat Number: U2020/3020057</p>
+<p style="color:magenta;"> Location  Online shoppinf<p> 
+<p style="color:blue;"> Phone Number: 08039291297</p>
 <em><p style="text-align:center;color:green;">This Website was deploy using gitgub</em>
 </p>
 <body/>
