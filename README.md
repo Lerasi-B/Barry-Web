@@ -3,7 +3,7 @@
 <head>
 
 <Body>
-<body style="background-color:pale;">
+<body style="background-color:orange;">
 
 <h1 style color="color:green;text-align
   ;center;">Welcome to Lerasi Integrated Services
@@ -17,4 +17,4 @@
 <body/>
 
 
-</html>
+
