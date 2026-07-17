@@ -102,8 +102,8 @@ h1{
 </div>
 
 <div class="card">
-    <img src="IMG_1950.jpeg">
-    <h2>Michael Doe</h2>
+    <img src="IMG_1956.jpeg">
+    <h2>BARRY</h2>
     <p class="position">Secretary</p>
 </div>
 
