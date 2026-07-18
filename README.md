@@ -90,7 +90,7 @@ h1{
 <div class="executives">
 
 <div class="card">
-    <img src="IMG_1950.jpeg">
+    <img src="IMG_1964.jpeg">
     <h2>Adomagio Probel</h2>
     <p class="position">President</p>
 </div>
@@ -102,13 +102,13 @@ h1{
 </div>
 
 <div class="card">
-    <img src="IMG_1955.jpeg">
+    <img src="IMG_1956.jpeg">
     <h2>BARRY</h2>
     <p class="position">Secretary</p>
 </div>
 
 <div class="card">
-    <img src="IMG_1956.jpeg">
+    <img src="IMG_1963.jpeg">
     <h2>XAN G</h2>
     <p class="position">PRO</p>
 </div>
